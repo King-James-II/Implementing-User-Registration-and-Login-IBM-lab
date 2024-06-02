@@ -6,3 +6,4 @@ Tasks Accomplished:
 - Provided an API endpoint with POST for customer registrations using an Express server.
 - Used bcrypt for encrypting customer passwords.
 - Created an API endpoint with GET for customer login.
+- Queried database with Mongosh to view password hash to verify validity.
